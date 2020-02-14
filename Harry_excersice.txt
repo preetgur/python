@@ -1,0 +1,5 @@
+
+Harry:[]2019-12-16 11:15:05.829308]  :[ Excersice Selected ]:Dumble Press
+[2019-12-16 11:16:28.996005]  :Harry:[ Excersice Selected ]:Split 10 mins
+[2019-12-16 11:28:17.937050]  :Harry:[ Excersice Selected ]:shoulder
+[2019-12-16 12:34:58.821724]  :Harry:[ Excersice Selected ]:abc

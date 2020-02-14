@@ -1,0 +1,14 @@
+
+Drink water at : 2019-12-21 12:50:25.350603 
+Drink water at : 2019-12-21 12:50:32.599018 
+Drink water at : 2019-12-21 12:57:31.435370 
+Eyes excersice at : 2019-12-21 12:57:35.882625 
+Drink water at : 2019-12-21 12:57:40.700900 
+body excercise at : 2019-12-21 12:57:48.652355 
+Drink water at : 2019-12-21 12:58:17.231990 
+Eyes excersice at : 2019-12-21 12:58:22.803309 
+body excercise at : 2019-12-21 12:58:25.507463 
+Drink water at : 2019-12-21 12:58:28.947660 
+Drink water at : 2019-12-21 13:08:44.513483 
+Eyes excersice at : 2019-12-21 13:08:59.981368 
+body excercise at : 2019-12-21 13:09:07.237783 
